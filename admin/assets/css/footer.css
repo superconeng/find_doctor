@@ -1,0 +1,11 @@
+.page-footer {
+    background: #fff;
+    color: #000;
+    text-align: center;
+    padding: 10px 20px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-size: 14px;
+}

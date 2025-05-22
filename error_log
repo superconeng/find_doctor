@@ -1,0 +1,141 @@
+[10-May-2025 07:55:49 UTC] PHP Warning:  Undefined variable $cityResult in /home/wwwsehatpro/public_html/find-doctor/index.php on line 45
+[10-May-2025 07:55:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_data_seek(): Argument #1 ($result) must be of type mysqli_result, null given in /home/wwwsehatpro/public_html/find-doctor/index.php:45
+Stack trace:
+#0 /home/wwwsehatpro/public_html/find-doctor/index.php(45): mysqli_data_seek()
+#1 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/index.php on line 45
+[10-May-2025 08:02:30 UTC] PHP Warning:  Undefined variable $cityResult in /home/wwwsehatpro/public_html/find-doctor/index.php on line 45
+[10-May-2025 08:02:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_data_seek(): Argument #1 ($result) must be of type mysqli_result, null given in /home/wwwsehatpro/public_html/find-doctor/index.php:45
+Stack trace:
+#0 /home/wwwsehatpro/public_html/find-doctor/index.php(45): mysqli_data_seek()
+#1 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/index.php on line 45
+[10-May-2025 09:12:23 UTC] PHP Notice:  Undefined variable: EGeON in /home/wwwsehatpro/public_html/find-doctor/admin/includes/database.php on line 6
+[10-May-2025 09:12:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wwwsehatpro_doctors'@'localhost' (using password: YES) in /home/wwwsehatpro/public_html/find-doctor/admin/includes/database.php on line 6
+[10-May-2025 14:12:23 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wwwsehatpro/public_html/find-doctor/index.php on line 10
+[10-May-2025 14:12:23 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/wwwsehatpro/public_html/find-doctor/index.php on line 12
+[10-May-2025 10:14:22 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /home/wwwsehatpro/public_html/find-doctor/index.php on line 238
+[10-May-2025 10:14:34 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /home/wwwsehatpro/public_html/find-doctor/index.php on line 238
+[10-May-2025 10:14:38 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /home/wwwsehatpro/public_html/find-doctor/index.php on line 238
+[15-May-2025 06:07:32 UTC] PHP Warning:  Undefined variable $doctors in /home/wwwsehatpro/public_html/find-doctor/search.php on line 72
+[15-May-2025 06:17:11 UTC] PHP Fatal error:  Cannot redeclare getDoctorAvailability() (previously declared in /home/wwwsehatpro/public_html/find-doctor/search.php:71) in /home/wwwsehatpro/public_html/find-doctor/search.php on line 143
+[15-May-2025 10:36:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wwwsehatpro/public_html/find-doctor/search.php on line 543
+[17-May-2025 05:49:19 UTC] PHP Parse error:  syntax error, unexpected token "endforeach" in /home/wwwsehatpro/public_html/find-doctor/search.php on line 348
+[17-May-2025 15:53:38 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[17-May-2025 15:55:26 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[17-May-2025 15:56:25 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[17-May-2025 15:57:03 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[17-May-2025 15:57:34 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[17-May-2025 16:01:31 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[17-May-2025 16:01:59 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[17-May-2025 16:02:17 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[19-May-2025 09:00:44 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[19-May-2025 09:06:09 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[19-May-2025 09:06:28 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[19-May-2025 09:06:37 Asia/Karachi] PHP Warning:  Undefined array key "gender" in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 257
+[19-May-2025 04:52:08 UTC] PHP Fatal error:  Cannot redeclare extractListItems() (previously declared in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:44) in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 185
+[19-May-2025 04:53:34 UTC] PHP Fatal error:  Cannot redeclare extractListItems() (previously declared in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:44) in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 185
+[19-May-2025 04:54:35 UTC] PHP Fatal error:  Cannot redeclare extractListItems() (previously declared in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:44) in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 185
+[19-May-2025 04:54:35 UTC] PHP Fatal error:  Cannot redeclare extractListItems() (previously declared in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:44) in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 185
+[19-May-2025 10:28:15 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 356
+[19-May-2025 10:38:51 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleMapsLink() in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:354
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 354
+[19-May-2025 10:42:36 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleMapsLink() in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 369
+[19-May-2025 10:45:56 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleMapsLink() in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:371
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 371
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Undefined variable $timing in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 355
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 355
+[19-May-2025 11:16:19 Asia/Karachi] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 355
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Undefined variable $mapsLink in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 360
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Undefined variable $hospitalName in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 360
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Undefined variable $timing in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 365
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 365
+[19-May-2025 11:16:19 Asia/Karachi] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 125
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Undefined variable $timing in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 370
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 370
+[19-May-2025 11:16:19 Asia/Karachi] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 370
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Undefined variable $timing in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 370
+[19-May-2025 11:16:19 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 370
+[19-May-2025 11:16:19 Asia/Karachi] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 370
+[19-May-2025 06:35:06 UTC] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:35:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:35:18 UTC] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:35:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:36:05 UTC] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:39:20 UTC] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:39:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:58:39 UTC] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[19-May-2025 06:58:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/book_appointment.php on line 2
+[20-May-2025 09:34:37 UTC] PHP Parse error:  Unmatched '}' in /home/wwwsehatpro/public_html/find-doctor/search.php on line 139
+[20-May-2025 09:36:36 UTC] PHP Parse error:  Unmatched '}' in /home/wwwsehatpro/public_html/find-doctor/search.php on line 139
+[20-May-2025 09:38:19 UTC] PHP Parse error:  Unmatched '}' in /home/wwwsehatpro/public_html/find-doctor/search.php on line 139
+[20-May-2025 15:02:44 Asia/Karachi] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 121
+[20-May-2025 15:03:48 Asia/Karachi] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 121
+[20-May-2025 10:07:05 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 420
+[20-May-2025 10:07:40 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 404
+[20-May-2025 15:10:35 Asia/Karachi] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 121
+[20-May-2025 10:22:21 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 412
+[20-May-2025 10:24:57 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 425
+[20-May-2025 10:27:53 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 425
+[20-May-2025 10:28:03 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 425
+[20-May-2025 10:28:09 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 425
+[20-May-2025 10:29:28 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 422
+[20-May-2025 10:38:46 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 413
+[21-May-2025 04:25:00 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 406
+[21-May-2025 04:32:32 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 421
+[21-May-2025 04:35:47 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 422
+[21-May-2025 09:37:58 Asia/Karachi] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 121
+[21-May-2025 04:48:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 659
+[21-May-2025 05:12:32 UTC] PHP Warning:  Undefined variable $availability in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 9
+[21-May-2025 05:12:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 9
+[21-May-2025 05:17:02 UTC] PHP Warning:  include(admin/config/dbcon.php): Failed to open stream: No such file or directory in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 2
+[21-May-2025 05:17:02 UTC] PHP Warning:  include(): Failed opening 'admin/config/dbcon.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 2
+[21-May-2025 05:17:02 UTC] PHP Warning:  include(functions.php): Failed to open stream: No such file or directory in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 3
+[21-May-2025 05:17:02 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 3
+[21-May-2025 05:17:02 UTC] PHP Warning:  Undefined variable $conn in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 21
+[21-May-2025 05:17:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/wwwsehatpro/public_html/find-doctor/dc-search.php:21
+Stack trace:
+#0 /home/wwwsehatpro/public_html/find-doctor/dc-search.php(21): mysqli_query()
+#1 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 21
+[21-May-2025 05:47:39 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 438
+[21-May-2025 05:47:58 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 438
+[21-May-2025 05:48:04 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 438
+[21-May-2025 05:48:39 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 438
+[21-May-2025 05:49:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 674
+[21-May-2025 11:00:31 Asia/Karachi] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 121
+[21-May-2025 06:55:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wwwsehatpro/public_html/find-doctor/dc-search.php on line 702
+[21-May-2025 14:14:13 Asia/Karachi] PHP Warning:  Undefined variable $dayMapping in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 388
+[21-May-2025 09:31:39 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/wwwsehatpro/public_html/find-doctor/search.php on line 367
+[22-May-2025 04:40:31 UTC] PHP Parse error:  syntax error, unexpected token "endfor", expecting "elseif" or "else" or "endif" in /home/wwwsehatpro/public_html/find-doctor/search.php on line 395
+[22-May-2025 04:40:55 UTC] PHP Parse error:  syntax error, unexpected token "endfor", expecting "elseif" or "else" or "endif" in /home/wwwsehatpro/public_html/find-doctor/search.php on line 381
+[22-May-2025 04:41:00 UTC] PHP Parse error:  syntax error, unexpected token "endfor", expecting "elseif" or "else" or "endif" in /home/wwwsehatpro/public_html/find-doctor/search.php on line 381
+[22-May-2025 04:43:38 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/wwwsehatpro/public_html/find-doctor/search.php on line 7
+[22-May-2025 04:44:02 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/wwwsehatpro/public_html/find-doctor/search.php on line 7
+[22-May-2025 12:44:53 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function decodeId() in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wwwsehatpro/public_html/find-doctor/doctor_full_detail.php on line 10

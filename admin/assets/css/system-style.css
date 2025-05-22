@@ -1,0 +1,54 @@
+
+
+ul li.active a {
+    color: red;
+}
+
+.search-set {
+    width: 100%;
+}
+
+.add-lc-text {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333; /* Change color as needed */
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adjust spacing between search and plus button */
+}
+
+.add-btn a {
+    font-size: 18px;
+    color: black; /* Black color for plus icon */
+    padding: 8px;
+}
+
+.action-icon {
+    width: 75% !important;
+}
+
+.seri-no {
+	text-align: center;
+	
+}
+
+
+.heading-txt {
+    padding: 10px;
+    background: #DEEAF6;
+    font-size: 24px;
+    font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.form-check-input:checked {
+    background-color: #9f282a;
+    border-color: #9f282a;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}

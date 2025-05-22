@@ -1,0 +1,21 @@
+
+.btn-custom-blue {
+    font-weight: bold;
+    background-color: #0169e8;
+    border-color: #0169e8;
+    color: #fff;
+}
+
+/* Add this to your CSS file */
+.welcome-item {
+    display: flex;
+    align-items: center;
+}
+
+.welcome-message {
+    color: #000;
+    font-weight: 500;
+    padding: 20 15px;
+    margin-right: 10px;
+}
+
